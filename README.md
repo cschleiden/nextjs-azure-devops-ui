@@ -1,0 +1,1 @@
+Small experiment to use `azure-devops-ui` in a server-side rendered `Next.js` app.
